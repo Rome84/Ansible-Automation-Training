@@ -1,6 +1,6 @@
 Vagrant.configure("2") do |config|
 
-  config.vm.box = "ubuntu/trusty64"
+  config.vm.box = "generic/ubuntu1804"
   config.vm.box_check_update = false
   config.ssh.insert_key = false
   config.ssh.shell = "bash -c 'BASH_ENV=/etc/profile exec bash'" 
