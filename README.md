@@ -25,7 +25,7 @@ This training already contains a `Vagrantfile` to get you up and running. Note t
 ```shell
 vagrant up
 ```
-It will bring up the **control** machine (Ubuntu 14.04 LTS) and perform the following actions on it:
+It will bring up the **control** machine (Ubuntu 18.04 LTS) and perform the following actions on it:
 - Add the latest  Ansible repository
 - Add the insecure RSA key that will be used for client machines
 - Add some additional SSH config
