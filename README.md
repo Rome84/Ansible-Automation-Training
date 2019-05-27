@@ -18,7 +18,7 @@ You need the install the following software on your machine:
 Cloning the tutorial
 -----------------------
 ```shell
-git clone https://github.com/arbabnazar/ansible-training.git
+git clone https://github.com/Rome84/Ansible-Automation-Training.git
 cd ansible-training
 ```
 This training already contains a `Vagrantfile` to get you up and running. Note that you do not need to download any "box" manually. Just run this command and it will get everything for you that you need to perform this training.
